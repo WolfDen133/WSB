@@ -1,0 +1,16 @@
+---
+name: WSB
+author: WolfDen133
+description: A simple, easy to use, scoreboard plugin
+
+version: 1.0.0
+api: 4.0.0
+
+main: WolfDen133\WSB\WSB
+src-namespace-prefix: WolfDen133\WSB
+
+permissions:
+  wsb.command.use:
+    default: true
+    description: Allows the use of the wsb command
+...

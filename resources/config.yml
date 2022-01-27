@@ -1,0 +1,46 @@
+# Timezone for dates and times
+timezone: "UTC"
+
+# Time format for time tag
+# Get help and formatting at https://www.php.net/manual/en/function.date.php
+time-format: "H:i:s"
+
+# Date format for date tag
+# Get help and formatting at https://www.php.net/manual/en/function.date.php
+date-format: "d-m-Y"
+
+
+# Per world scoreboards: set this to true if you want to have per world scoreboards under the worlds tab
+per-world-scoreboards: false
+
+# Padding is making all the lines the same length, the value is how long you want the lines to be in total, (set to -1 for disabled) e.g.
+# 'scoreboard' -> 'scoreboard'
+# 'score'          -> 'score         '
+padding: 15
+
+# Update interval is the time between scoreboard updates, and display name changes (in seconds)
+update-interval: 1
+
+# Display names are the titles that will be displayed at the top of the scoreboard
+display-names:
+  - '&l&aMy &9Server'
+  - '&l&9My &aServer'
+
+# Lines are the actual content of the scoreboard
+lines:
+  - ''
+  - ' &aLine &c1'
+  - ' &aLine &a2'
+  - ' &aLine &9B'
+  - ' '
+
+worlds:
+  world:
+    - 'You are in world: world'
+    - 'This is a custom sb for this world'
+
+  spawn:
+    - 'This is another custom scoreboard'
+    - 'For the world: spawn'
+    - 'If there is no world set in this section'
+    - 'The player will be shown the default scoreboard'
