@@ -7,28 +7,28 @@ Welcome to WSB.
 WSB is an easy to use scoreboard hud plugin for pocketmine 4.0+
 
 ## Features
-> ###Rotating display lines
+> ### Rotating display lines
 > You can set multiple display names for the scoreboard to scroll through
 
-> ###Auto updating lines
+> ### Auto updating lines
 > You can change the amount of time that the tags refresh
 
-> ###Easy-reload
+> ### Easy-reload
 > You can reload the scoreboards from config without restarting the server with `/wsb reload` (only accessable to operators)
 
-> ###Command Parameters
+> ### Command Parameters
 > The command has useful parameters for an easy to use command
 
-> ###Customizable lines
+> ### Customizable lines
 > You can set and change all the lines from config
 
-> ###Many useful tag
+> ### Many useful tag
 > Tags are replace values like player position, there are lots
 
-> ###Custom tag creation
+> ### Custom tag creation
 > You can make your own tags in YOUR plugins for the scoreboard to use
 
-> ###Per-World-Scoreboards
+> ### Per-World-Scoreboards
 > You can set different scoreboards for different worlds
 ## Command
 SubCommand | Permission
