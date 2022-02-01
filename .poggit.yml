@@ -5,4 +5,5 @@ branches:
 projects:
   WSB:
     path: ""
+    icon: "icon.png"
 ...
