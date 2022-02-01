@@ -37,6 +37,7 @@ SubCommand | Permission
 `off ` | true
 `reload` | op
 ## Tags
+  Tag | Description
   -|-
   `&`|Use for color codes (same as `§`)
   `{NAME}`|Players real name
